@@ -1,2 +1,4 @@
 # hello-word
-Just another repository
+Несколько слов о себе
+* Первое слово
+* Второе слово
